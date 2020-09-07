@@ -12,4 +12,10 @@ This project comes with pre installed packages that can help you in your develop
 - **[SEO](https://github.com/artesaos/seotools?ref=madewithlaravel.com)**
 - **[Debugger](https://laravel.com/docs/7.x/telescope)**
 
+### Candidate 
+- **[HTML Email](https://github.com/Snowfire/Beautymail)**
+- **[Flash Message](https://github.com/laracasts/flash)**
+- **[Laravel Social Notification](https://laravel-notification-channels.com/)**
+- **[URL Slug](https://github.com/cviebrock/eloquent-sluggable)**
+
 Make sure to run `composer install` first so the application can updated it self.
