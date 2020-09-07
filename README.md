@@ -4,8 +4,10 @@ This project comes with pre installed packages that can help you in your develop
 
 ### Packages
 
+- **[UUID](https://github.com/webpatser/laravel-uuid)**
 - **[Query Builder](https://github.com/spatie/laravel-query-builder)**
 - **[Backup](https://spatie.be/docs/laravel-backup/v6/introduction)**
+- **[Activity Log](https://spatie.be/docs/laravel-activitylog/v3/installation-and-setup)**
 - **[Roles/Permission](https://spatie.be/docs/laravel-permission/v3/installation-laravel)**
 - **[SEO](https://github.com/artesaos/seotools?ref=madewithlaravel.com)**
 - **[Debugger](https://laravel.com/docs/7.x/telescope)**
