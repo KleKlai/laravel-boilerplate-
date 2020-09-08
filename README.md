@@ -11,10 +11,10 @@ This project comes with pre installed packages that can help you in your develop
 - **[Roles/Permission](https://spatie.be/docs/laravel-permission/v3/installation-laravel)**
 - **[SEO](https://github.com/artesaos/seotools?ref=madewithlaravel.com)**
 - **[Debugger](https://laravel.com/docs/7.x/telescope)**
+- **[Flash Message](https://github.com/laracasts/flash)**
 
 ### Candidate 
 - **[HTML Email](https://github.com/Snowfire/Beautymail)**
-- **[Flash Message](https://github.com/laracasts/flash)**
 - **[Laravel Social Notification](https://laravel-notification-channels.com/)**
 - **[URL Slug](https://github.com/cviebrock/eloquent-sluggable)**
 
